@@ -1,0 +1,28 @@
+NIGHTSHIFT — SOURCES AND ACKNOWLEDGEMENTS
+
+Website concept, layout, code and draft content were prepared with ChatGPT assistance for Yerkhan Amangaliyev and Adilzhan Oralkhan, IT-2507. Students must review, understand, adapt and commit their own work before submission.
+No downloaded website template or theme was used.
+
+Bootstrap 5.3.3 CSS — The Bootstrap Authors, MIT License.
+Source: https://github.com/twbs/bootstrap/tree/v5.3.3
+Documentation: https://getbootstrap.com/docs/5.3/
+Local file: css/bootstrap.min.css. License: css/BOOTSTRAP-LICENSE.txt.
+
+Roboto regular and bold — Google / Christian Robertson, Apache License 2.0.
+Local WOFF2 font files are included for offline use.
+Project: https://github.com/googlefonts/roboto
+License: fonts/LICENSE.txt.
+
+AI-GENERATED PHOTOS — ChatGPT image generation, 6 October 2026:
+Bookshop cafe (Paper & Tea), board game table (The Game Table), and city viewpoint (Skyline Stop). These are AI-generated and depict fictional illustrative settings, not actual businesses or verified locations.
+
+PHOTOGRAPHS — Unsplash, free under the Unsplash License:
+https://unsplash.com/license
+City: Venti Views — https://unsplash.com/photos/reqyGhGOj4I
+Cafe: Tu Tran Anh — https://unsplash.com/photos/h07aN1Wch68
+Bowling: Ryan Ancill — https://unsplash.com/photos/k_1TW7CZpbI
+Photographs are illustrative. They do not depict the fictional named places.
+The city photograph depicts Los Angeles; NightShift is not a verified Astana directory.
+
+CONTENT
+All six place names are fictional examples. Budgets and durations are illustrative planning categories, not verified business information. The form is an HTML-only demonstration, not a live submission service.
