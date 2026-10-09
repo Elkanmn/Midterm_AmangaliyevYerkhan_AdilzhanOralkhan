@@ -1,6 +1,5 @@
 NIGHTSHIFT — SOURCES AND ACKNOWLEDGEMENTS
 
-Website concept, layout, code and draft content were prepared with ChatGPT assistance for Yerkhan Amangaliyev and Adilzhan Oralkhan, IT-2507. Students must review, understand, adapt and commit their own work before submission.
 No downloaded website template or theme was used.
 
 Bootstrap 5.3.3 CSS — The Bootstrap Authors, MIT License.
